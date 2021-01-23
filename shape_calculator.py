@@ -1,3 +1,7 @@
+#Hi there, if you have any feedback on the code,
+#feel free to contact me on linkedin
+#https://www.linkedin.com/in/tyson-cheah
+
 class Rectangle:
   def __init__(self, wd, h):
     self.width = wd
